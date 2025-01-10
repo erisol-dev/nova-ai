@@ -52,7 +52,7 @@ Before starting, ensure you have the following installed:
 
 #### **1. Clone the Repository**
 ```bash
-git clone https://github.com/your-username/nova-ai.git
+git clone https://github.com/erisol-dev/nova-ai.git
 cd nova-ai
 ```
 
@@ -131,31 +131,6 @@ Create a `.env` file in the `nova-ai-backend` directory with the following varia
 SUPABASE_URL=your-supabase-url
 SUPABASE_SECRET_KEY=your-secret-key
 ```
-
----
-
-## Project Structure
-
-```
-nova-ai/
-├── nova-ai-frontend/    # Frontend (Next.js)
-│   ├── src/             # Source files
-│   ├── public/          # Public assets
-│   ├── package.json     # Frontend dependencies
-│   └── tailwind.config.js
-├── nova-ai-backend/     # Backend (FastAPI)
-│   ├── main.py          # FastAPI entry point
-│   ├── requirements.txt # Backend dependencies
-│   └── app/             # Backend source files
-├── .gitignore           # Git ignore rules
-├── pnpm-workspace.yaml  # pnpm monorepo setup
-└── README.md            # Project documentation
-```
----
-## License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-
 ---
 
 
