@@ -7,7 +7,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className="antialiased">
+      <body className="h-screen overflow-hidden dark antialiased" >
         <main>
           {children}
         </main>

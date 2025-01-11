@@ -1,1 +1,62 @@
-{}
+{
+  "..\\..\\node_modules\\.pnpm\\@nextui-org+accordion@2.2.7_@nextui-org+system@2.4.6_@nextui-org+theme@2.4.5_tailwindcss@3.4._vozl5eidza2occpupqb23fsofa\\node_modules\\@nextui-org\\accordion\\dist\\chunk-3XWHXVUH.mjs -> @nextui-org/dom-animation": {
+    "id": "..\\..\\node_modules\\.pnpm\\@nextui-org+accordion@2.2.7_@nextui-org+system@2.4.6_@nextui-org+theme@2.4.5_tailwindcss@3.4._vozl5eidza2occpupqb23fsofa\\node_modules\\@nextui-org\\accordion\\dist\\chunk-3XWHXVUH.mjs -> @nextui-org/dom-animation",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_pnpm_nextui-org_dom-animation_2_1_1_framer-motion_11_17_0_rea-4f86d0.js"
+    ]
+  },
+  "..\\..\\node_modules\\.pnpm\\@nextui-org+calendar@2.2.9_@nextui-org+system@2.4.6_@nextui-org+theme@2.4.5_tailwindcss@3.4.1_b5n3pzeacaeff2oeftmsar56li\\node_modules\\@nextui-org\\calendar\\dist\\chunk-7FIJ2QLY.mjs -> @nextui-org/dom-animation": {
+    "id": "..\\..\\node_modules\\.pnpm\\@nextui-org+calendar@2.2.9_@nextui-org+system@2.4.6_@nextui-org+theme@2.4.5_tailwindcss@3.4.1_b5n3pzeacaeff2oeftmsar56li\\node_modules\\@nextui-org\\calendar\\dist\\chunk-7FIJ2QLY.mjs -> @nextui-org/dom-animation",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_pnpm_nextui-org_dom-animation_2_1_1_framer-motion_11_17_0_rea-4f86d0.js"
+    ]
+  },
+  "..\\..\\node_modules\\.pnpm\\@nextui-org+modal@2.2.7_@nextui-org+system@2.4.6_@nextui-org+theme@2.4.5_tailwindcss@3.4.17___zo6c43f7pviehux4ta4ew5wp7m\\node_modules\\@nextui-org\\modal\\dist\\chunk-RE5G2YMK.mjs -> @nextui-org/dom-animation": {
+    "id": "..\\..\\node_modules\\.pnpm\\@nextui-org+modal@2.2.7_@nextui-org+system@2.4.6_@nextui-org+theme@2.4.5_tailwindcss@3.4.17___zo6c43f7pviehux4ta4ew5wp7m\\node_modules\\@nextui-org\\modal\\dist\\chunk-RE5G2YMK.mjs -> @nextui-org/dom-animation",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_pnpm_nextui-org_dom-animation_2_1_1_framer-motion_11_17_0_rea-4f86d0.js"
+    ]
+  },
+  "..\\..\\node_modules\\.pnpm\\@nextui-org+navbar@2.2.8_@nextui-org+system@2.4.6_@nextui-org+theme@2.4.5_tailwindcss@3.4.17__ah3rm2dj6pvt5jwby4z4oppdaq\\node_modules\\@nextui-org\\navbar\\dist\\chunk-5HDGDWGW.mjs -> @nextui-org/dom-animation": {
+    "id": "..\\..\\node_modules\\.pnpm\\@nextui-org+navbar@2.2.8_@nextui-org+system@2.4.6_@nextui-org+theme@2.4.5_tailwindcss@3.4.17__ah3rm2dj6pvt5jwby4z4oppdaq\\node_modules\\@nextui-org\\navbar\\dist\\chunk-5HDGDWGW.mjs -> @nextui-org/dom-animation",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_pnpm_nextui-org_dom-animation_2_1_1_framer-motion_11_17_0_rea-4f86d0.js"
+    ]
+  },
+  "..\\..\\node_modules\\.pnpm\\@nextui-org+navbar@2.2.8_@nextui-org+system@2.4.6_@nextui-org+theme@2.4.5_tailwindcss@3.4.17__ah3rm2dj6pvt5jwby4z4oppdaq\\node_modules\\@nextui-org\\navbar\\dist\\chunk-QKHJHOQ7.mjs -> @nextui-org/dom-animation": {
+    "id": "..\\..\\node_modules\\.pnpm\\@nextui-org+navbar@2.2.8_@nextui-org+system@2.4.6_@nextui-org+theme@2.4.5_tailwindcss@3.4.17__ah3rm2dj6pvt5jwby4z4oppdaq\\node_modules\\@nextui-org\\navbar\\dist\\chunk-QKHJHOQ7.mjs -> @nextui-org/dom-animation",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_pnpm_nextui-org_dom-animation_2_1_1_framer-motion_11_17_0_rea-4f86d0.js"
+    ]
+  },
+  "..\\..\\node_modules\\.pnpm\\@nextui-org+popover@2.3.9_@nextui-org+system@2.4.6_@nextui-org+theme@2.4.5_tailwindcss@3.4.17_ezkspqzkiflvvy5d6qryrypyfy\\node_modules\\@nextui-org\\popover\\dist\\chunk-3ZYJG5UF.mjs -> @nextui-org/dom-animation": {
+    "id": "..\\..\\node_modules\\.pnpm\\@nextui-org+popover@2.3.9_@nextui-org+system@2.4.6_@nextui-org+theme@2.4.5_tailwindcss@3.4.17_ezkspqzkiflvvy5d6qryrypyfy\\node_modules\\@nextui-org\\popover\\dist\\chunk-3ZYJG5UF.mjs -> @nextui-org/dom-animation",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_pnpm_nextui-org_dom-animation_2_1_1_framer-motion_11_17_0_rea-4f86d0.js"
+    ]
+  },
+  "..\\..\\node_modules\\.pnpm\\@nextui-org+popover@2.3.9_@nextui-org+system@2.4.6_@nextui-org+theme@2.4.5_tailwindcss@3.4.17_ezkspqzkiflvvy5d6qryrypyfy\\node_modules\\@nextui-org\\popover\\dist\\chunk-XVHGMAVG.mjs -> @nextui-org/dom-animation": {
+    "id": "..\\..\\node_modules\\.pnpm\\@nextui-org+popover@2.3.9_@nextui-org+system@2.4.6_@nextui-org+theme@2.4.5_tailwindcss@3.4.17_ezkspqzkiflvvy5d6qryrypyfy\\node_modules\\@nextui-org\\popover\\dist\\chunk-XVHGMAVG.mjs -> @nextui-org/dom-animation",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_pnpm_nextui-org_dom-animation_2_1_1_framer-motion_11_17_0_rea-4f86d0.js"
+    ]
+  },
+  "..\\..\\node_modules\\.pnpm\\@nextui-org+ripple@2.2.7_@nextui-org+system@2.4.6_@nextui-org+theme@2.4.5_tailwindcss@3.4.17__yvzack62z7wc66jakdc7ywuk3i\\node_modules\\@nextui-org\\ripple\\dist\\chunk-MRKSP4U5.mjs -> @nextui-org/dom-animation": {
+    "id": "..\\..\\node_modules\\.pnpm\\@nextui-org+ripple@2.2.7_@nextui-org+system@2.4.6_@nextui-org+theme@2.4.5_tailwindcss@3.4.17__yvzack62z7wc66jakdc7ywuk3i\\node_modules\\@nextui-org\\ripple\\dist\\chunk-MRKSP4U5.mjs -> @nextui-org/dom-animation",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_pnpm_nextui-org_dom-animation_2_1_1_framer-motion_11_17_0_rea-4f86d0.js"
+    ]
+  },
+  "..\\..\\node_modules\\.pnpm\\@nextui-org+tooltip@2.2.7_@nextui-org+system@2.4.6_@nextui-org+theme@2.4.5_tailwindcss@3.4.17_2ytt2vs67a6l3dgj3jdlswyutq\\node_modules\\@nextui-org\\tooltip\\dist\\chunk-LY4WDGUU.mjs -> @nextui-org/dom-animation": {
+    "id": "..\\..\\node_modules\\.pnpm\\@nextui-org+tooltip@2.2.7_@nextui-org+system@2.4.6_@nextui-org+theme@2.4.5_tailwindcss@3.4.17_2ytt2vs67a6l3dgj3jdlswyutq\\node_modules\\@nextui-org\\tooltip\\dist\\chunk-LY4WDGUU.mjs -> @nextui-org/dom-animation",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_pnpm_nextui-org_dom-animation_2_1_1_framer-motion_11_17_0_rea-4f86d0.js"
+    ]
+  },
+  "..\\..\\node_modules\\.pnpm\\next@15.1.4_@babel+core@7.26.0_react-dom@18.3.1_react@18.3.1__react@18.3.1\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\helpers\\use-websocket.js -> @vercel/turbopack-ecmascript-runtime/browser/dev/hmr-client/hmr-client.ts": {
+    "id": "..\\..\\node_modules\\.pnpm\\next@15.1.4_@babel+core@7.26.0_react-dom@18.3.1_react@18.3.1__react@18.3.1\\node_modules\\next\\dist\\client\\components\\react-dev-overlay\\internal\\helpers\\use-websocket.js -> @vercel/turbopack-ecmascript-runtime/browser/dev/hmr-client/hmr-client.ts",
+    "files": [
+      "static/chunks/_app-pages-browser_node_modules_pnpm_next_15_1_4__babel_core_7_26_0_react-dom_18_3_1_react_18-070393.js"
+    ]
+  }
+}

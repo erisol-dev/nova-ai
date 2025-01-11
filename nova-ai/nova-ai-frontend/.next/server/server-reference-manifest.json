@@ -1,5 +1,28 @@
 {
-  "node": {},
+  "node": {
+    "40816c02c6ff8e4b663459f58f1a5bf8e9831feb25": {
+      "workers": {
+        "app/auth/account/page": {
+          "moduleId": "(action-browser)/../node_modules/.pnpm/next@15.1.4_@babel+core@7.26.0_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22S%3A%5C%5CTranslationProject%5C%5Cnova-ai%5C%5Cnova-ai-frontend%5C%5Csrc%5C%5Clib%5C%5Cactions.ts%22%2C%5B%5B%2240816c02c6ff8e4b663459f58f1a5bf8e9831feb25%22%2C%22Register%22%5D%2C%5B%2240dcce365687feda9f69c3c15f49541ab916d4c767%22%2C%22Login%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/auth/account/page": "action-browser"
+      }
+    },
+    "40dcce365687feda9f69c3c15f49541ab916d4c767": {
+      "workers": {
+        "app/auth/account/page": {
+          "moduleId": "(action-browser)/../node_modules/.pnpm/next@15.1.4_@babel+core@7.26.0_react-dom@18.3.1_react@18.3.1__react@18.3.1/node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22S%3A%5C%5CTranslationProject%5C%5Cnova-ai%5C%5Cnova-ai-frontend%5C%5Csrc%5C%5Clib%5C%5Cactions.ts%22%2C%5B%5B%2240816c02c6ff8e4b663459f58f1a5bf8e9831feb25%22%2C%22Register%22%5D%2C%5B%2240dcce365687feda9f69c3c15f49541ab916d4c767%22%2C%22Login%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/auth/account/page": "action-browser"
+      }
+    }
+  },
   "edge": {},
   "encryptionKey": "1mcE6yk8SmZvXbcbE3WQ6c3yHb8wk97Zb7aylZulB0g="
 }
